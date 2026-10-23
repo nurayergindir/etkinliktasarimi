@@ -1,0 +1,6 @@
+{
+  "name": "Öğretmen Portalı & Eğitsel Oyun Dünyası",
+  "description": "Öğretmen çalışma alanı (Sınavlar, Kaynaklar, Yıllık Planlar, Dosyalar, Oyunlar), canlı eğitsel oyunlar, eğitimle ilgili ilham verici sözler, canlı saat ve takvim içeren dinamik eğitim platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
